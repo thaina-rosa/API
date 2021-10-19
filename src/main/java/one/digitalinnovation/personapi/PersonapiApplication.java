@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PersonapiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(one.digitalinnovation.personapi.op.src.main.java.one.digitalinnovation.personapi.PersonapiApplication.class, args);
+		SpringApplication.run(PersonapiApplication.class, args);
+
 	}
 
 }
